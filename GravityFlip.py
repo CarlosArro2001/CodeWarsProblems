@@ -40,8 +40,7 @@ def flip(letter, values):
                 #swapping if one element is greater than the other 
                 if values[j] > values[j+1]:
                     values[j], values[j+1] = values[j+1] , values[j]
-        print(values)
-        print(letter)
+        print(values) #outputting the values
     if(letter == "L"):
         # reverse the bubble sort
         n = len(values)
@@ -49,8 +48,7 @@ def flip(letter, values):
             for j in range(0 , n-i-1):
                 if values[j+1]>values[j]:
                     values[j+1] , values[j] = values[j] , values[j+1]
-        print(values)
-        print(letter)
+        print(values) #outputting the values 
 
 
 flip('L', [1, 4, 5, 3, 5])
