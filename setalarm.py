@@ -13,6 +13,9 @@ setAlarm(true, true) -> false
 setAlarm(false, true) -> false
 setAlarm(false, false) -> false
 setAlarm(true, false) -> true
+
+Author : Carlos Raniel Arro
+
 '''
 
 #function called setAlarm
