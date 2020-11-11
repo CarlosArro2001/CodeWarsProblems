@@ -1,4 +1,5 @@
 '''
+QUESTION : 
 When it's spring Japanese cherries blossom,
 it's called "sakura" and it's admired a lot.
  The petals start to fall in late April.
@@ -22,6 +23,7 @@ Author: Carlos Raniel Ariate Arro
 
 
 '''
+NOTES :
 Falling speed =  5cm/s
 Time taken for petal to reach ground = 80 seconds
 therefore according to distance = speed * time 
