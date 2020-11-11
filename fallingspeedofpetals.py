@@ -24,6 +24,11 @@ Author: Carlos Raniel Ariate Arro
 '''
 Falling speed =  5cm/s
 Time taken for petal to reach ground = 80 seconds
+therefore according to distance = speed * time 
+distance = 80 * 5 
+distance = 400 
+thus dividing 400 by speed (perhaps call it velocity since it's direction is to the ground) 
+and then returning that value as the time.
 function :
     - recieves speed as input (in cm/s)
     - returns time taken for petal to reach ground from same branch
